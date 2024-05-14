@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**talhaagull/talhaagull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Talha, a passionate Software Development enthusiast. Welcome to my GitHub profile where I tinker with code, explore new technologies, and share my projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working as a Software Test Engineer at Erik Teknoloji Labs
+- 🌱 I’m currently learning React and SpringBoot.
+
+- 📫 How to reach me:
+  - [![Email](https://img.shields.io/badge/-Email-0077B5?style=flat-square&logo=gmail&logoColor=white)](mailto:talhagulx@gmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhagull)
+
+- Programming Languages: Java, Javascript
+- Tools and Libraries: Cypress, Playwright, Selenium, Appium, Postman, JMeter, Jenkins, React, Express, SpringBoot

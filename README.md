@@ -5,7 +5,6 @@ Hey there! I'm Talha, a passionate Software Development enthusiast. Welcome to m
 ## About Me
 
 - 💼 Currently working as a Software Test Engineer at Erik Teknoloji Labs
-- 🌱 I’m currently learning React and SpringBoot.
 
 - 📫 How to reach me:
   - [![Email](https://img.shields.io/badge/-Email-0077B5?style=flat-square&logo=gmail&logoColor=white)](mailto:talhagulx@gmail.com)
